@@ -22,6 +22,8 @@ __pycache__/
 *.csv
 *.xlsx
 data/
+.png
+.jpg
 
 # OS
 .DS_Store
