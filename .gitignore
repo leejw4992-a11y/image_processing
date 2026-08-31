@@ -30,3 +30,6 @@ data/
 Thumbs.db
 
 
+
+# TensorFlow Model Garden (외부 저장소 클론)
+models/
